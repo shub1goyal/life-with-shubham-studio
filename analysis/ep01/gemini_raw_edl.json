@@ -1,0 +1,228 @@
+{
+  "episodeTitle": "Corporate Majdoori",
+  "cuts": [
+    {
+      "id": "cut_01",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 3.48,
+      "sourceEndSec": 6.32,
+      "description": "Shubham complains about workload"
+    },
+    {
+      "id": "cut_02",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 10.88,
+      "sourceEndSec": 14.62,
+      "description": "Shubham shows his dark circles"
+    },
+    {
+      "id": "cut_03",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 15.90,
+      "sourceEndSec": 18.00,
+      "description": "Shubham blames one person"
+    },
+    {
+      "id": "cut_04",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 20.50,
+      "sourceEndSec": 21.50,
+      "description": "Reveals Ishaan as the culprit"
+    },
+    {
+      "id": "cut_05",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 24.00,
+      "sourceEndSec": 30.00,
+      "description": "Shubham explains Ishaan's impact"
+    },
+    {
+      "id": "cut_06",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 0.00,
+      "sourceEndSec": 2.00,
+      "description": "Welcome to the vlog"
+    },
+    {
+      "id": "cut_07",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 4.20,
+      "sourceEndSec": 4.90,
+      "description": "Introducing Akshay"
+    },
+    {
+      "id": "cut_08",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 13.90,
+      "sourceEndSec": 15.00,
+      "description": "Akshay makes a gesture"
+    },
+    {
+      "id": "cut_09",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 19.40,
+      "sourceEndSec": 21.80,
+      "description": "Shubham praises Akshay's content"
+    },
+    {
+      "id": "cut_10",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 35.00,
+      "sourceEndSec": 39.50,
+      "description": "Mega comments on Gurgaon"
+    },
+    {
+      "id": "cut_11",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 42.50,
+      "sourceEndSec": 49.80,
+      "description": "Mega further criticizes the office environment"
+    },
+    {
+      "id": "cut_12",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 50.00,
+      "sourceEndSec": 52.50,
+      "description": "Meta joke about the vlog becoming an interview"
+    }
+  ],
+  "censors": [
+    {
+      "id": "censor_01",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 13.90,
+      "sourceEndSec": 15.00,
+      "label": "[CENSORED]"
+    }
+  ],
+  "punchZooms": [
+    {
+      "id": "zoom_01",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 10.88,
+      "sourceEndSec": 12.50,
+      "scale": 1.15
+    },
+    {
+      "id": "zoom_02",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 23.00,
+      "sourceEndSec": 24.00,
+      "scale": 1.2
+    },
+    {
+      "id": "zoom_03",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 39.10,
+      "sourceEndSec": 39.50,
+      "scale": 1.2
+    },
+    {
+      "id": "zoom_04",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 42.50,
+      "sourceEndSec": 43.50,
+      "scale": 1.2
+    }
+  ],
+  "captions": [
+    {
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 3.48,
+      "sourceEndSec": 6.32,
+      "text": "Kaam nahi ho raha",
+      "highlightWord": "Kaam"
+    },
+    {
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 10.88,
+      "sourceEndSec": 14.62,
+      "text": "Dark circles ho gaye",
+      "highlightWord": "circles"
+    },
+    {
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 15.90,
+      "sourceEndSec": 18.00,
+      "text": "Sirf ek insaan",
+      "highlightWord": "ek"
+    },
+    {
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 20.50,
+      "sourceEndSec": 21.50,
+      "text": "Ishaan",
+      "highlightWord": "Ishaan"
+    },
+    {
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 24.00,
+      "sourceEndSec": 26.50,
+      "text": "Aisi taisi karata",
+      "highlightWord": "taisi"
+    },
+    {
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 29.00,
+      "sourceEndSec": 30.00,
+      "text": "Pura role hai",
+      "highlightWord": "Pura"
+    },
+    {
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 0.00,
+      "sourceEndSec": 2.00,
+      "text": "Welcome Shubham Vlog",
+      "highlightWord": "Shubham"
+    },
+    {
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 4.20,
+      "sourceEndSec": 4.90,
+      "text": "Sabse pehle Akshay",
+      "highlightWord": "Akshay"
+    },
+    {
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 19.40,
+      "sourceEndSec": 21.80,
+      "text": "Content bohot acha",
+      "highlightWord": "acha"
+    },
+    {
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 35.00,
+      "sourceEndSec": 37.00,
+      "text": "Currently in Gurgaon",
+      "highlightWord": "Gurgaon"
+    },
+    {
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 39.10,
+      "sourceEndSec": 39.50,
+      "text": "Sucks",
+      "highlightWord": "Sucks"
+    },
+    {
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 42.50,
+      "sourceEndSec": 43.50,
+      "text": "Bahut hi bekar",
+      "highlightWord": "bekar"
+    },
+    {
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 48.00,
+      "sourceEndSec": 49.80,
+      "text": "Ghutan mehsoos ho",
+      "highlightWord": "Ghutan"
+    },
+    {
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 50.00,
+      "sourceEndSec": 52.50,
+      "text": "Vlog se zyada interview",
+      "highlightWord": "interview"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+name: Publish to ClawHub
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "*/SKILL.md"
+      - "*/references/**"
+      - "*/scripts/**"
+      - "*/assets/**"
+
+  # Allow manual trigger for re-publish or version bumps
+  workflow_dispatch:
+    inputs:
+      bump:
+        description: "Version bump type"
+        required: false
+        default: "patch"
+        type: choice
+        options:
+          - patch
+          - minor
+          - major
+      dry_run:
+        description: "Dry run (show what would be published)"
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # needed for git tagging
+
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+
+      - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2
+
+      - name: Authenticate with ClawHub
+        run: bunx clawhub@latest login --token "$CLAWHUB_TOKEN"
+        env:
+          CLAWHUB_TOKEN: ${{ secrets.CLAWHUB_TOKEN }}
+
+      - name: Detect changed skills
+        id: detect
+        run: |
+          # Find all skill directories (contain SKILL.md)
+          SKILLS=$(find . -maxdepth 2 -name 'SKILL.md' -not -path './.git/*' | sed 's|/SKILL.md||;s|^\./||' | sort)
+          echo "Found skills: $SKILLS"
+          echo "skills<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$SKILLS" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Sync all skills to ClawHub
+        id: publish
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          BUMP="${{ github.event.inputs.bump || 'patch' }}"
+          CHANGELOG="Auto-published from ${{ github.repository }}@${GITHUB_SHA::8}"
+
+          echo "Publishing all skills (bump: $BUMP)..."
+          bunx clawhub@latest sync \
+            --root . \
+            --all \
+            --owner vargai \
+            --no-input \
+            --bump "$BUMP" \
+            --changelog "$CHANGELOG" \
+            --tags latest 2>&1 | tee /tmp/publish-output.txt
+
+          echo "done=true" >> "$GITHUB_OUTPUT"
+        env:
+          CLAWHUB_TOKEN: ${{ secrets.CLAWHUB_TOKEN }}
+
+      - name: Tag release
+        if: |
+          github.event.inputs.dry_run != 'true' &&
+          steps.publish.outputs.done == 'true'
+        run: |
+          # Annotated tags need a committer identity; the runner has none.
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          TAG="publish-${GITHUB_SHA::8}"
+
+          if git rev-parse "$TAG" >/dev/null 2>&1; then
+            echo "Tag $TAG already exists, skipping"
+          else
+            git tag -a "$TAG" -m "Published to ClawHub from ${GITHUB_SHA::8}"
+            git push origin "$TAG"
+            echo "Tagged and pushed $TAG"
+          fi
+
+      - name: Dry run
+        if: github.event.inputs.dry_run == 'true'
+        run: |
+          BUMP="${{ github.event.inputs.bump || 'patch' }}"
+          echo "DRY RUN — would sync with bump=$BUMP:"
+          bunx clawhub@latest sync \
+            --root . \
+            --all \
+            --owner vargai \
+            --no-input \
+            --dry-run \
+            --bump "$BUMP" 2>&1 | tee /tmp/publish-output.txt
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## ClawHub Publish Summary" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            echo "> Dry run -- nothing was published." >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+          fi
+          echo "- **Commit**: \`${GITHUB_SHA::8}\`" >> "$GITHUB_STEP_SUMMARY"
+          echo "- **Bump**: ${{ github.event.inputs.bump || 'patch' }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- **Skills**: ${{ steps.detect.outputs.skills }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- **Registry**: https://clawhub.ai" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f /tmp/publish-output.txt ]; then
+            echo "### Output" >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+            cat /tmp/publish-output.txt >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+          fi

@@ -1,0 +1,1791 @@
+{
+  "episodeId": "EP01",
+  "title": "LIFE WITH SHUBHAM | EP01 - Dark Circles & Gurgaon Blues",
+  "fps": 30,
+  "totalFrames": 2031,
+  "durationSec": 67.7,
+  "format": "9x16",
+  "cuts": [
+    {
+      "id": "cut_01",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 0.4,
+      "sourceEndSec": 2.0,
+      "startFrame": 0,
+      "durationFrames": 48,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_02",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 3.3,
+      "sourceEndSec": 6.0,
+      "startFrame": 48,
+      "durationFrames": 81,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_03",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 6.6,
+      "sourceEndSec": 15.2,
+      "startFrame": 129,
+      "durationFrames": 258,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_04",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 15.3,
+      "sourceEndSec": 17.2,
+      "startFrame": 387,
+      "durationFrames": 57,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_05",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 0.1,
+      "sourceEndSec": 2.0,
+      "startFrame": 444,
+      "durationFrames": 57,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_06",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 8.0,
+      "sourceEndSec": 9.6,
+      "startFrame": 501,
+      "durationFrames": 48,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_07",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 10.6,
+      "sourceEndSec": 13.5,
+      "startFrame": 549,
+      "durationFrames": 87,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_08",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 16.4,
+      "sourceEndSec": 18.7,
+      "startFrame": 636,
+      "durationFrames": 69,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_09",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 19.1,
+      "sourceEndSec": 21.2,
+      "startFrame": 705,
+      "durationFrames": 63,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_10",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 23.4,
+      "sourceEndSec": 23.8,
+      "startFrame": 768,
+      "durationFrames": 12,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_11",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 24.8,
+      "sourceEndSec": 25.1,
+      "startFrame": 780,
+      "durationFrames": 9,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_12",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 25.9,
+      "sourceEndSec": 27.3,
+      "startFrame": 789,
+      "durationFrames": 42,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_13",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 28.8,
+      "sourceEndSec": 29.4,
+      "startFrame": 831,
+      "durationFrames": 18,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_14",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 29.6,
+      "sourceEndSec": 32.4,
+      "startFrame": 849,
+      "durationFrames": 84,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_15",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 34.1,
+      "sourceEndSec": 36.4,
+      "startFrame": 933,
+      "durationFrames": 69,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_16",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 39.8,
+      "sourceEndSec": 42.2,
+      "startFrame": 1002,
+      "durationFrames": 72,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_17",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 42.5,
+      "sourceEndSec": 45.9,
+      "startFrame": 1074,
+      "durationFrames": 102,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_18",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 46.6,
+      "sourceEndSec": 48.9,
+      "startFrame": 1176,
+      "durationFrames": 69,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_19",
+      "sourceFile": "media/ep01/clip_02_cfr.mp4",
+      "sourceStartSec": 50.0,
+      "sourceEndSec": 52.4,
+      "startFrame": 1245,
+      "durationFrames": 72,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_20",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 17.2,
+      "sourceEndSec": 20.4,
+      "startFrame": 1317,
+      "durationFrames": 96,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_21",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 20.4,
+      "sourceEndSec": 30.0,
+      "startFrame": 1413,
+      "durationFrames": 288,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_22",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 30.6,
+      "sourceEndSec": 34.0,
+      "startFrame": 1701,
+      "durationFrames": 102,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_23",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 34.3,
+      "sourceEndSec": 39.4,
+      "startFrame": 1803,
+      "durationFrames": 153,
+      "volume": 1.0
+    },
+    {
+      "id": "cut_24",
+      "sourceFile": "media/ep01/clip_01_cfr.mp4",
+      "sourceStartSec": 40.6,
+      "sourceEndSec": 41.1,
+      "startFrame": 1956,
+      "durationFrames": 15,
+      "volume": 1.0
+    }
+  ],
+  "captions": [
+    {
+      "id": "cap_01",
+      "text": "Hello guys",
+      "startFrame": 1,
+      "endFrame": 23,
+      "highlightWord": "Hello",
+      "words": [
+        {
+          "word": "Hello",
+          "start": 0.4,
+          "end": 0.7
+        },
+        {
+          "word": "guys",
+          "start": 0.7,
+          "end": 1.2
+        }
+      ]
+    },
+    {
+      "id": "cap_02",
+      "text": "kaam nahi ho raha",
+      "startFrame": 49,
+      "endFrame": 65,
+      "highlightWord": "kaam",
+      "words": [
+        {
+          "word": "kaam",
+          "start": 3.3,
+          "end": 3.6
+        },
+        {
+          "word": "nahi",
+          "start": 3.6,
+          "end": 3.7
+        },
+        {
+          "word": "ho",
+          "start": 3.7,
+          "end": 3.8
+        },
+        {
+          "word": "raha",
+          "start": 3.8,
+          "end": 3.9
+        }
+      ]
+    },
+    {
+      "id": "cap_03",
+      "text": "hai guys bilkul bhi",
+      "startFrame": 67,
+      "endFrame": 89,
+      "highlightWord": "bilkul",
+      "words": [
+        {
+          "word": "hai",
+          "start": 3.9,
+          "end": 3.9
+        },
+        {
+          "word": "guys",
+          "start": 3.9,
+          "end": 4.1
+        },
+        {
+          "word": "bilkul",
+          "start": 4.1,
+          "end": 4.5
+        },
+        {
+          "word": "bhi",
+          "start": 4.5,
+          "end": 4.7
+        }
+      ]
+    },
+    {
+      "id": "cap_04",
+      "text": "yaar dekho aankhon",
+      "startFrame": 130,
+      "endFrame": 194,
+      "highlightWord": "aankhon",
+      "words": [
+        {
+          "word": "yaar",
+          "start": 6.6,
+          "end": 6.8
+        },
+        {
+          "word": "dekho",
+          "start": 7.3,
+          "end": 7.8
+        },
+        {
+          "word": "aankhon",
+          "start": 8.6,
+          "end": 8.8
+        }
+      ]
+    },
+    {
+      "id": "cap_05",
+      "text": "ke dark circles",
+      "startFrame": 196,
+      "endFrame": 263,
+      "highlightWord": "circles",
+      "words": [
+        {
+          "word": "ke",
+          "start": 8.8,
+          "end": 9.2
+        },
+        {
+          "word": "dark",
+          "start": 10.4,
+          "end": 10.7
+        },
+        {
+          "word": "circles",
+          "start": 10.7,
+          "end": 11.1
+        }
+      ]
+    },
+    {
+      "id": "cap_06",
+      "text": "kitne ho gaye",
+      "startFrame": 265,
+      "endFrame": 281,
+      "highlightWord": "kitne",
+      "words": [
+        {
+          "word": "kitne",
+          "start": 11.1,
+          "end": 11.4
+        },
+        {
+          "word": "ho",
+          "start": 11.4,
+          "end": 11.6
+        },
+        {
+          "word": "gaye",
+          "start": 11.6,
+          "end": 11.7
+        }
+      ]
+    },
+    {
+      "id": "cap_07",
+      "text": "hain aankhein andar",
+      "startFrame": 283,
+      "endFrame": 299,
+      "highlightWord": "aankhein",
+      "words": [
+        {
+          "word": "hain",
+          "start": 11.7,
+          "end": 11.8
+        },
+        {
+          "word": "aankhein",
+          "start": 11.8,
+          "end": 12.0
+        },
+        {
+          "word": "andar",
+          "start": 12.0,
+          "end": 12.3
+        }
+      ]
+    },
+    {
+      "id": "cap_08",
+      "text": "dhans chuki hain",
+      "startFrame": 301,
+      "endFrame": 323,
+      "highlightWord": "dhans",
+      "words": [
+        {
+          "word": "dhans",
+          "start": 12.3,
+          "end": 12.5
+        },
+        {
+          "word": "chuki",
+          "start": 12.5,
+          "end": 13.0
+        },
+        {
+          "word": "hain",
+          "start": 13.0,
+          "end": 13.1
+        }
+      ]
+    },
+    {
+      "id": "cap_09",
+      "text": "kaam nahi ho",
+      "startFrame": 358,
+      "endFrame": 368,
+      "highlightWord": "kaam",
+      "words": [
+        {
+          "word": "kaam",
+          "start": 14.2,
+          "end": 14.4
+        },
+        {
+          "word": "nahi",
+          "start": 14.4,
+          "end": 14.5
+        },
+        {
+          "word": "ho",
+          "start": 14.5,
+          "end": 14.6
+        }
+      ]
+    },
+    {
+      "id": "cap_10",
+      "text": "rahi hai dekho",
+      "startFrame": 370,
+      "endFrame": 386,
+      "highlightWord": "dekho",
+      "words": [
+        {
+          "word": "rahi",
+          "start": 14.6,
+          "end": 14.7
+        },
+        {
+          "word": "hai",
+          "start": 14.7,
+          "end": 14.8
+        },
+        {
+          "word": "dekho",
+          "start": 14.8,
+          "end": 15.2
+        }
+      ]
+    },
+    {
+      "id": "cap_11",
+      "text": "pata hai kiski",
+      "startFrame": 388,
+      "endFrame": 404,
+      "highlightWord": "kiski",
+      "words": [
+        {
+          "word": "pata",
+          "start": 15.3,
+          "end": 15.5
+        },
+        {
+          "word": "hai",
+          "start": 15.5,
+          "end": 15.6
+        },
+        {
+          "word": "kiski",
+          "start": 15.6,
+          "end": 15.9
+        }
+      ]
+    },
+    {
+      "id": "cap_12",
+      "text": "wajah se sirf",
+      "startFrame": 406,
+      "endFrame": 425,
+      "highlightWord": "wajah",
+      "words": [
+        {
+          "word": "wajah",
+          "start": 15.9,
+          "end": 16.1
+        },
+        {
+          "word": "se",
+          "start": 16.1,
+          "end": 16.3
+        },
+        {
+          "word": "sirf",
+          "start": 16.3,
+          "end": 16.6
+        }
+      ]
+    },
+    {
+      "id": "cap_13",
+      "text": "ek insaan hai",
+      "startFrame": 427,
+      "endFrame": 443,
+      "highlightWord": "insaan",
+      "words": [
+        {
+          "word": "ek",
+          "start": 16.6,
+          "end": 16.7
+        },
+        {
+          "word": "insaan",
+          "start": 16.7,
+          "end": 17.1
+        },
+        {
+          "word": "hai",
+          "start": 17.1,
+          "end": 17.2
+        }
+      ]
+    },
+    {
+      "id": "cap_14",
+      "text": "Guys welcome to",
+      "startFrame": 445,
+      "endFrame": 476,
+      "highlightWord": "welcome",
+      "words": [
+        {
+          "word": "Guys",
+          "start": 0.1,
+          "end": 0.6
+        },
+        {
+          "word": "welcome",
+          "start": 0.6,
+          "end": 1.0
+        },
+        {
+          "word": "to",
+          "start": 1.0,
+          "end": 1.2
+        }
+      ]
+    },
+    {
+      "id": "cap_15",
+      "text": "Shubham Vlog",
+      "startFrame": 478,
+      "endFrame": 500,
+      "highlightWord": "Shubham",
+      "words": [
+        {
+          "word": "Shubham",
+          "start": 1.2,
+          "end": 1.7
+        },
+        {
+          "word": "Vlog",
+          "start": 1.7,
+          "end": 2.0
+        }
+      ]
+    },
+    {
+      "id": "cap_16",
+      "text": "Kaun si kaun",
+      "startFrame": 502,
+      "endFrame": 521,
+      "highlightWord": "Kaun",
+      "words": [
+        {
+          "word": "Kaun",
+          "start": 8.0,
+          "end": 8.3
+        },
+        {
+          "word": "si",
+          "start": 8.3,
+          "end": 8.4
+        },
+        {
+          "word": "kaun",
+          "start": 8.4,
+          "end": 8.7
+        }
+      ]
+    },
+    {
+      "id": "cap_17",
+      "text": "si bataana ek baar",
+      "startFrame": 523,
+      "endFrame": 548,
+      "highlightWord": "bataana",
+      "words": [
+        {
+          "word": "si",
+          "start": 8.7,
+          "end": 8.9
+        },
+        {
+          "word": "bataana",
+          "start": 8.9,
+          "end": 9.3
+        },
+        {
+          "word": "ek",
+          "start": 9.3,
+          "end": 9.4
+        },
+        {
+          "word": "baar",
+          "start": 9.4,
+          "end": 9.6
+        }
+      ]
+    },
+    {
+      "id": "cap_18",
+      "text": "Akshay Can you",
+      "startFrame": 550,
+      "endFrame": 581,
+      "highlightWord": "Akshay",
+      "words": [
+        {
+          "word": "Akshay",
+          "start": 10.6,
+          "end": 11.1
+        },
+        {
+          "word": "Can",
+          "start": 11.4,
+          "end": 11.6
+        },
+        {
+          "word": "you",
+          "start": 11.6,
+          "end": 11.7
+        }
+      ]
+    },
+    {
+      "id": "cap_19",
+      "text": "turn Akshay",
+      "startFrame": 583,
+      "endFrame": 635,
+      "highlightWord": "Akshay",
+      "words": [
+        {
+          "word": "turn",
+          "start": 11.7,
+          "end": 12.0
+        },
+        {
+          "word": "Akshay",
+          "start": 13.0,
+          "end": 13.5
+        }
+      ]
+    },
+    {
+      "id": "cap_20",
+      "text": "for you nahi aise",
+      "startFrame": 637,
+      "endFrame": 689,
+      "highlightWord": "nahi",
+      "words": [
+        {
+          "word": "for",
+          "start": 16.4,
+          "end": 16.5
+        },
+        {
+          "word": "you",
+          "start": 16.5,
+          "end": 16.7
+        },
+        {
+          "word": "nahi",
+          "start": 17.8,
+          "end": 18.0
+        },
+        {
+          "word": "aise",
+          "start": 18.0,
+          "end": 18.2
+        }
+      ]
+    },
+    {
+      "id": "cap_21",
+      "text": "karna hai iske liye",
+      "startFrame": 691,
+      "endFrame": 704,
+      "highlightWord": "karna",
+      "words": [
+        {
+          "word": "karna",
+          "start": 18.2,
+          "end": 18.4
+        },
+        {
+          "word": "hai",
+          "start": 18.4,
+          "end": 18.5
+        },
+        {
+          "word": "iske",
+          "start": 18.5,
+          "end": 18.6
+        },
+        {
+          "word": "liye",
+          "start": 18.6,
+          "end": 18.7
+        }
+      ]
+    },
+    {
+      "id": "cap_22",
+      "text": "Akshay aap content",
+      "startFrame": 706,
+      "endFrame": 737,
+      "highlightWord": "content",
+      "words": [
+        {
+          "word": "Akshay",
+          "start": 19.1,
+          "end": 19.6
+        },
+        {
+          "word": "aap",
+          "start": 19.6,
+          "end": 19.8
+        },
+        {
+          "word": "content",
+          "start": 19.8,
+          "end": 20.2
+        }
+      ]
+    },
+    {
+      "id": "cap_23",
+      "text": "bahut achha dete ho",
+      "startFrame": 739,
+      "endFrame": 767,
+      "highlightWord": "bahut",
+      "words": [
+        {
+          "word": "bahut",
+          "start": 20.2,
+          "end": 20.5
+        },
+        {
+          "word": "achha",
+          "start": 20.5,
+          "end": 20.7
+        },
+        {
+          "word": "dete",
+          "start": 20.7,
+          "end": 21.0
+        },
+        {
+          "word": "ho",
+          "start": 21.0,
+          "end": 21.2
+        }
+      ]
+    },
+    {
+      "id": "cap_24",
+      "text": "Megha",
+      "startFrame": 769,
+      "endFrame": 779,
+      "highlightWord": "Megha",
+      "words": [
+        {
+          "word": "Megha",
+          "start": 23.4,
+          "end": 23.8
+        }
+      ]
+    },
+    {
+      "id": "cap_25",
+      "text": "Ya",
+      "startFrame": 781,
+      "endFrame": 789,
+      "highlightWord": "Ya",
+      "words": [
+        {
+          "word": "Ya",
+          "start": 24.8,
+          "end": 25.0
+        }
+      ]
+    },
+    {
+      "id": "cap_26",
+      "text": "So aap kahan",
+      "startFrame": 790,
+      "endFrame": 803,
+      "highlightWord": "kahan",
+      "words": [
+        {
+          "word": "So",
+          "start": 25.9,
+          "end": 26.0
+        },
+        {
+          "word": "aap",
+          "start": 26.0,
+          "end": 26.2
+        },
+        {
+          "word": "kahan",
+          "start": 26.2,
+          "end": 26.4
+        }
+      ]
+    },
+    {
+      "id": "cap_27",
+      "text": "pe ghoomne gaye the",
+      "startFrame": 805,
+      "endFrame": 830,
+      "highlightWord": "ghoomne",
+      "words": [
+        {
+          "word": "pe",
+          "start": 26.4,
+          "end": 26.6
+        },
+        {
+          "word": "ghoomne",
+          "start": 26.6,
+          "end": 26.9
+        },
+        {
+          "word": "gaye",
+          "start": 26.9,
+          "end": 27.1
+        },
+        {
+          "word": "the",
+          "start": 27.1,
+          "end": 27.3
+        }
+      ]
+    },
+    {
+      "id": "cap_28",
+      "text": "pahadon pe",
+      "startFrame": 832,
+      "endFrame": 848,
+      "highlightWord": "pahadon",
+      "words": [
+        {
+          "word": "pahadon",
+          "start": 28.8,
+          "end": 29.1
+        },
+        {
+          "word": "pe",
+          "start": 29.1,
+          "end": 29.4
+        }
+      ]
+    },
+    {
+      "id": "cap_29",
+      "text": "last week Last",
+      "startFrame": 850,
+      "endFrame": 884,
+      "highlightWord": "last",
+      "words": [
+        {
+          "word": "last",
+          "start": 29.6,
+          "end": 30.0
+        },
+        {
+          "word": "week",
+          "start": 30.0,
+          "end": 30.2
+        },
+        {
+          "word": "Last",
+          "start": 30.3,
+          "end": 30.8
+        }
+      ]
+    },
+    {
+      "id": "cap_30",
+      "text": "week I was",
+      "startFrame": 886,
+      "endFrame": 905,
+      "highlightWord": "week",
+      "words": [
+        {
+          "word": "week",
+          "start": 30.8,
+          "end": 31.1
+        },
+        {
+          "word": "I",
+          "start": 31.1,
+          "end": 31.3
+        },
+        {
+          "word": "was",
+          "start": 31.3,
+          "end": 31.5
+        }
+      ]
+    },
+    {
+      "id": "cap_31",
+      "text": "in my home town",
+      "startFrame": 907,
+      "endFrame": 932,
+      "highlightWord": "home",
+      "words": [
+        {
+          "word": "in",
+          "start": 31.5,
+          "end": 31.6
+        },
+        {
+          "word": "my",
+          "start": 31.6,
+          "end": 31.8
+        },
+        {
+          "word": "home",
+          "start": 31.8,
+          "end": 32.0
+        },
+        {
+          "word": "town",
+          "start": 32.0,
+          "end": 32.4
+        }
+      ]
+    },
+    {
+      "id": "cap_32",
+      "text": "and now currently",
+      "startFrame": 934,
+      "endFrame": 980,
+      "highlightWord": "currently",
+      "words": [
+        {
+          "word": "and",
+          "start": 34.1,
+          "end": 34.8
+        },
+        {
+          "word": "now",
+          "start": 34.8,
+          "end": 35.3
+        },
+        {
+          "word": "currently",
+          "start": 35.3,
+          "end": 35.7
+        }
+      ]
+    },
+    {
+      "id": "cap_33",
+      "text": "I am in Gurgaon",
+      "startFrame": 982,
+      "endFrame": 1001,
+      "highlightWord": "Gurgaon",
+      "words": [
+        {
+          "word": "I",
+          "start": 35.7,
+          "end": 35.8
+        },
+        {
+          "word": "am",
+          "start": 35.8,
+          "end": 35.9
+        },
+        {
+          "word": "in",
+          "start": 35.9,
+          "end": 36.0
+        },
+        {
+          "word": "Gurgaon",
+          "start": 36.0,
+          "end": 36.4
+        }
+      ]
+    },
+    {
+      "id": "cap_34",
+      "text": "So aapko yahan",
+      "startFrame": 1003,
+      "endFrame": 1025,
+      "highlightWord": "aapko",
+      "words": [
+        {
+          "word": "So",
+          "start": 39.8,
+          "end": 40.2
+        },
+        {
+          "word": "aapko",
+          "start": 40.2,
+          "end": 40.4
+        },
+        {
+          "word": "yahan",
+          "start": 40.4,
+          "end": 40.6
+        }
+      ]
+    },
+    {
+      "id": "cap_35",
+      "text": "ke nok sok kaise",
+      "startFrame": 1027,
+      "endFrame": 1055,
+      "highlightWord": "kaise",
+      "words": [
+        {
+          "word": "ke",
+          "start": 40.6,
+          "end": 40.8
+        },
+        {
+          "word": "nok",
+          "start": 40.8,
+          "end": 41.0
+        },
+        {
+          "word": "sok",
+          "start": 41.0,
+          "end": 41.3
+        },
+        {
+          "word": "kaise",
+          "start": 41.3,
+          "end": 41.6
+        }
+      ]
+    },
+    {
+      "id": "cap_36",
+      "text": "achhe lag rahe hain",
+      "startFrame": 1057,
+      "endFrame": 1073,
+      "highlightWord": "achhe",
+      "words": [
+        {
+          "word": "achhe",
+          "start": 41.6,
+          "end": 41.8
+        },
+        {
+          "word": "lag",
+          "start": 41.8,
+          "end": 42.0
+        },
+        {
+          "word": "rahe",
+          "start": 42.0,
+          "end": 42.1
+        },
+        {
+          "word": "hain",
+          "start": 42.1,
+          "end": 42.2
+        }
+      ]
+    },
+    {
+      "id": "cap_37",
+      "text": "bahut hi bekar",
+      "startFrame": 1075,
+      "endFrame": 1094,
+      "highlightWord": "bahut",
+      "words": [
+        {
+          "word": "bahut",
+          "start": 42.5,
+          "end": 42.8
+        },
+        {
+          "word": "hi",
+          "start": 42.8,
+          "end": 42.8
+        },
+        {
+          "word": "bekar",
+          "start": 42.8,
+          "end": 43.2
+        }
+      ]
+    },
+    {
+      "id": "cap_38",
+      "text": "hain matlab bilkul",
+      "startFrame": 1096,
+      "endFrame": 1121,
+      "highlightWord": "matlab",
+      "words": [
+        {
+          "word": "hain",
+          "start": 43.2,
+          "end": 43.4
+        },
+        {
+          "word": "matlab",
+          "start": 43.5,
+          "end": 43.8
+        },
+        {
+          "word": "bilkul",
+          "start": 43.8,
+          "end": 44.1
+        }
+      ]
+    },
+    {
+      "id": "cap_39",
+      "text": "bhi tazi hawa",
+      "startFrame": 1123,
+      "endFrame": 1148,
+      "highlightWord": "tazi",
+      "words": [
+        {
+          "word": "bhi",
+          "start": 44.1,
+          "end": 44.4
+        },
+        {
+          "word": "tazi",
+          "start": 44.4,
+          "end": 44.8
+        },
+        {
+          "word": "hawa",
+          "start": 44.8,
+          "end": 45.0
+        }
+      ]
+    },
+    {
+      "id": "cap_40",
+      "text": "hi hai hai",
+      "startFrame": 1150,
+      "endFrame": 1160,
+      "highlightWord": "hai",
+      "words": [
+        {
+          "word": "hi",
+          "start": 45.0,
+          "end": 45.2
+        },
+        {
+          "word": "hai",
+          "start": 45.2,
+          "end": 45.3
+        },
+        {
+          "word": "hai",
+          "start": 45.3,
+          "end": 45.4
+        }
+      ]
+    },
+    {
+      "id": "cap_41",
+      "text": "nahi yahan pe",
+      "startFrame": 1162,
+      "endFrame": 1175,
+      "highlightWord": "yahan",
+      "words": [
+        {
+          "word": "nahi",
+          "start": 45.4,
+          "end": 45.6
+        },
+        {
+          "word": "yahan",
+          "start": 45.6,
+          "end": 45.7
+        },
+        {
+          "word": "pe",
+          "start": 45.7,
+          "end": 45.9
+        }
+      ]
+    },
+    {
+      "id": "cap_42",
+      "text": "to mujhe yahan",
+      "startFrame": 1177,
+      "endFrame": 1205,
+      "highlightWord": "mujhe",
+      "words": [
+        {
+          "word": "to",
+          "start": 46.6,
+          "end": 46.7
+        },
+        {
+          "word": "mujhe",
+          "start": 47.3,
+          "end": 47.5
+        },
+        {
+          "word": "yahan",
+          "start": 47.5,
+          "end": 47.6
+        }
+      ]
+    },
+    {
+      "id": "cap_43",
+      "text": "pe ghutan bhi",
+      "startFrame": 1207,
+      "endFrame": 1220,
+      "highlightWord": "ghutan",
+      "words": [
+        {
+          "word": "pe",
+          "start": 47.6,
+          "end": 47.7
+        },
+        {
+          "word": "ghutan",
+          "start": 47.7,
+          "end": 48.0
+        },
+        {
+          "word": "bhi",
+          "start": 48.0,
+          "end": 48.1
+        }
+      ]
+    },
+    {
+      "id": "cap_44",
+      "text": "mehsoos ho rahi hai",
+      "startFrame": 1222,
+      "endFrame": 1244,
+      "highlightWord": "mehsoos",
+      "words": [
+        {
+          "word": "mehsoos",
+          "start": 48.1,
+          "end": 48.5
+        },
+        {
+          "word": "ho",
+          "start": 48.5,
+          "end": 48.6
+        },
+        {
+          "word": "rahi",
+          "start": 48.6,
+          "end": 48.8
+        },
+        {
+          "word": "hai",
+          "start": 48.8,
+          "end": 48.9
+        }
+      ]
+    },
+    {
+      "id": "cap_45",
+      "text": "Yaar ye vlog",
+      "startFrame": 1246,
+      "endFrame": 1262,
+      "highlightWord": "Yaar",
+      "words": [
+        {
+          "word": "Yaar",
+          "start": 50.0,
+          "end": 50.2
+        },
+        {
+          "word": "ye",
+          "start": 50.2,
+          "end": 50.3
+        },
+        {
+          "word": "vlog",
+          "start": 50.3,
+          "end": 50.6
+        }
+      ]
+    },
+    {
+      "id": "cap_46",
+      "text": "se jyada interview",
+      "startFrame": 1264,
+      "endFrame": 1301,
+      "highlightWord": "interview",
+      "words": [
+        {
+          "word": "se",
+          "start": 50.6,
+          "end": 50.7
+        },
+        {
+          "word": "jyada",
+          "start": 50.7,
+          "end": 51.4
+        },
+        {
+          "word": "interview",
+          "start": 51.4,
+          "end": 51.9
+        }
+      ]
+    },
+    {
+      "id": "cap_47",
+      "text": "nahi ho gaya",
+      "startFrame": 1303,
+      "endFrame": 1316,
+      "highlightWord": "nahi",
+      "words": [
+        {
+          "word": "nahi",
+          "start": 51.9,
+          "end": 52.1
+        },
+        {
+          "word": "ho",
+          "start": 52.1,
+          "end": 52.2
+        },
+        {
+          "word": "gaya",
+          "start": 52.2,
+          "end": 52.4
+        }
+      ]
+    },
+    {
+      "id": "cap_48",
+      "text": "hai Ye Ishaan",
+      "startFrame": 1318,
+      "endFrame": 1412,
+      "highlightWord": "Ishaan",
+      "words": [
+        {
+          "word": "hai",
+          "start": 17.1,
+          "end": 17.2
+        },
+        {
+          "word": "Ye",
+          "start": 18.0,
+          "end": 18.3
+        },
+        {
+          "word": "Ishaan",
+          "start": 20.0,
+          "end": 20.4
+        }
+      ]
+    },
+    {
+      "id": "cap_49",
+      "text": "ye ek insaan",
+      "startFrame": 1468,
+      "endFrame": 1499,
+      "highlightWord": "insaan",
+      "words": [
+        {
+          "word": "ye",
+          "start": 22.2,
+          "end": 22.6
+        },
+        {
+          "word": "ek",
+          "start": 22.6,
+          "end": 22.9
+        },
+        {
+          "word": "insaan",
+          "start": 22.9,
+          "end": 23.3
+        }
+      ]
+    },
+    {
+      "id": "cap_50",
+      "text": "hai jo aisi",
+      "startFrame": 1501,
+      "endFrame": 1544,
+      "highlightWord": "aisi",
+      "words": [
+        {
+          "word": "hai",
+          "start": 23.3,
+          "end": 23.5
+        },
+        {
+          "word": "jo",
+          "start": 24.2,
+          "end": 24.5
+        },
+        {
+          "word": "aisi",
+          "start": 24.5,
+          "end": 24.8
+        }
+      ]
+    },
+    {
+      "id": "cap_51",
+      "text": "taisi karata hai",
+      "startFrame": 1546,
+      "endFrame": 1565,
+      "highlightWord": "karata",
+      "words": [
+        {
+          "word": "taisi",
+          "start": 24.8,
+          "end": 25.1
+        },
+        {
+          "word": "karata",
+          "start": 25.1,
+          "end": 25.5
+        },
+        {
+          "word": "hai",
+          "start": 25.5,
+          "end": 25.5
+        }
+      ]
+    },
+    {
+      "id": "cap_52",
+      "text": "meri matlab iska",
+      "startFrame": 1567,
+      "endFrame": 1607,
+      "highlightWord": "matlab",
+      "words": [
+        {
+          "word": "meri",
+          "start": 25.5,
+          "end": 25.8
+        },
+        {
+          "word": "matlab",
+          "start": 26.4,
+          "end": 26.7
+        },
+        {
+          "word": "iska",
+          "start": 26.7,
+          "end": 26.9
+        }
+      ]
+    },
+    {
+      "id": "cap_53",
+      "text": "koi major role",
+      "startFrame": 1609,
+      "endFrame": 1628,
+      "highlightWord": "major",
+      "words": [
+        {
+          "word": "koi",
+          "start": 26.9,
+          "end": 27.1
+        },
+        {
+          "word": "major",
+          "start": 27.1,
+          "end": 27.4
+        },
+        {
+          "word": "role",
+          "start": 27.4,
+          "end": 27.6
+        }
+      ]
+    },
+    {
+      "id": "cap_54",
+      "text": "nahi hai but",
+      "startFrame": 1630,
+      "endFrame": 1652,
+      "highlightWord": "nahi",
+      "words": [
+        {
+          "word": "nahi",
+          "start": 27.6,
+          "end": 27.9
+        },
+        {
+          "word": "hai",
+          "start": 27.9,
+          "end": 28.1
+        },
+        {
+          "word": "but",
+          "start": 28.1,
+          "end": 28.4
+        }
+      ]
+    },
+    {
+      "id": "cap_55",
+      "text": "pura role hai",
+      "startFrame": 1669,
+      "endFrame": 1691,
+      "highlightWord": "pura",
+      "words": [
+        {
+          "word": "pura",
+          "start": 28.9,
+          "end": 29.3
+        },
+        {
+          "word": "role",
+          "start": 29.3,
+          "end": 29.6
+        },
+        {
+          "word": "hai",
+          "start": 29.6,
+          "end": 29.7
+        }
+      ]
+    },
+    {
+      "id": "cap_56",
+      "text": "ek pankti mein",
+      "startFrame": 1702,
+      "endFrame": 1724,
+      "highlightWord": "pankti",
+      "words": [
+        {
+          "word": "ek",
+          "start": 30.6,
+          "end": 30.8
+        },
+        {
+          "word": "pankti",
+          "start": 30.8,
+          "end": 31.3
+        },
+        {
+          "word": "mein",
+          "start": 31.3,
+          "end": 31.4
+        }
+      ]
+    },
+    {
+      "id": "cap_57",
+      "text": "baitha hai",
+      "startFrame": 1726,
+      "endFrame": 1736,
+      "highlightWord": "baitha",
+      "words": [
+        {
+          "word": "baitha",
+          "start": 31.4,
+          "end": 31.7
+        },
+        {
+          "word": "hai",
+          "start": 31.7,
+          "end": 31.8
+        }
+      ]
+    },
+    {
+      "id": "cap_58",
+      "text": "ek padosi saath",
+      "startFrame": 1804,
+      "endFrame": 1835,
+      "highlightWord": "padosi",
+      "words": [
+        {
+          "word": "ek",
+          "start": 34.3,
+          "end": 34.6
+        },
+        {
+          "word": "padosi",
+          "start": 34.6,
+          "end": 35.2
+        },
+        {
+          "word": "saath",
+          "start": 35.2,
+          "end": 35.4
+        }
+      ]
+    },
+    {
+      "id": "cap_59",
+      "text": "mein baitha hota",
+      "startFrame": 1837,
+      "endFrame": 1853,
+      "highlightWord": "baitha",
+      "words": [
+        {
+          "word": "mein",
+          "start": 35.4,
+          "end": 35.5
+        },
+        {
+          "word": "baitha",
+          "start": 35.5,
+          "end": 35.8
+        },
+        {
+          "word": "hota",
+          "start": 35.8,
+          "end": 36.0
+        }
+      ]
+    },
+    {
+      "id": "cap_60",
+      "text": "hai to aapki",
+      "startFrame": 1855,
+      "endFrame": 1907,
+      "highlightWord": "aapki",
+      "words": [
+        {
+          "word": "hai",
+          "start": 36.0,
+          "end": 36.1
+        },
+        {
+          "word": "to",
+          "start": 37.1,
+          "end": 37.2
+        },
+        {
+          "word": "aapki",
+          "start": 37.2,
+          "end": 37.8
+        }
+      ]
+    },
+    {
+      "id": "cap_61",
+      "text": "waat lagni tay hai",
+      "startFrame": 1912,
+      "endFrame": 1955,
+      "highlightWord": "lagni",
+      "words": [
+        {
+          "word": "waat",
+          "start": 37.9,
+          "end": 38.3
+        },
+        {
+          "word": "lagni",
+          "start": 38.3,
+          "end": 38.7
+        },
+        {
+          "word": "tay",
+          "start": 38.7,
+          "end": 39.0
+        },
+        {
+          "word": "hai",
+          "start": 39.0,
+          "end": 39.4
+        }
+      ]
+    },
+    {
+      "id": "cap_62",
+      "text": "chalo milte hain",
+      "startFrame": 1957,
+      "endFrame": 1970,
+      "highlightWord": "chalo",
+      "words": [
+        {
+          "word": "chalo",
+          "start": 40.6,
+          "end": 40.8
+        },
+        {
+          "word": "milte",
+          "start": 40.8,
+          "end": 41.0
+        },
+        {
+          "word": "hain",
+          "start": 41.0,
+          "end": 41.1
+        }
+      ]
+    }
+  ],
+  "punchZooms": [
+    {
+      "id": "zoom_01",
+      "startFrame": 243,
+      "durationFrames": 42,
+      "scale": 1.15,
+      "originX": 50.0,
+      "originY": 42.5
+    },
+    {
+      "id": "zoom_02",
+      "startFrame": 417,
+      "durationFrames": 27,
+      "scale": 1.18,
+      "originX": 50.0,
+      "originY": 42.5
+    },
+    {
+      "id": "zoom_03",
+      "startFrame": 1083,
+      "durationFrames": 93,
+      "scale": 1.16,
+      "originX": 50.0,
+      "originY": 50.0
+    },
+    {
+      "id": "zoom_04",
+      "startFrame": 1287,
+      "durationFrames": 30,
+      "scale": 1.17,
+      "originX": 50.0,
+      "originY": 51.5
+    }
+  ],
+  "censors": [
+    {
+      "id": "censor_01",
+      "startFrame": 582,
+      "durationFrames": 15,
+      "label": "[CENSORED]",
+      "posX": 87.25,
+      "posY": 38.2,
+      "x": 942,
+      "y": 733,
+      "width": 280,
+      "height": 534
+    }
+  ],
+  "interstitials": [],
+  "outro": {
+    "startFrame": 1971,
+    "durationFrames": 60,
+    "teaserText": "Gurgaon's nightlife is 'fun part' not happening, but the dark circles are real!",
+    "episodeNumber": "EP01"
+  }
+}
